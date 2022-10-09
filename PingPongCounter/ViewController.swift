@@ -25,11 +25,6 @@ class ViewController: UIViewController {
     
     @IBOutlet var inizioPartita: UIButton!
     
-    
-
-//    var sforato = false
-
-    
     //speechUtterance.voice = AVSpeechSynthesisVoice(language: "it-IT")
     
     override var preferredStatusBarStyle: UIStatusBarStyle {
